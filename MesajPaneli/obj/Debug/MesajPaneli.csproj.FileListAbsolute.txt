@@ -1,0 +1,11 @@
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\bin\Debug\MesajPaneli.exe.config
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\bin\Debug\MesajPaneli.exe
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\bin\Debug\MesajPaneli.pdb
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.Form1.resources
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.Properties.Resources.resources
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.exe
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.pdb
+C:\Users\Semiha\Desktop\MesajPaneli\MesajPaneli\obj\Debug\MesajPaneli.MesajPaneli.resources

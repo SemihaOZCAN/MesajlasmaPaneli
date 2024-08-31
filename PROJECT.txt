@@ -1,0 +1,9 @@
+MESAJLAŞMA PANELİ
+*******************************
+Bu uygulama, kullanıcıların mesajlaşma işlemlerini yönetmelerine olanak tanır. 
+İlk olarak, kullanıcılar giriş yaparak kimliklerini doğrularlar. 
+Giriş başarılı olduğunda, kullanıcıya özel mesajları görüntülenir ve yeni mesajlar gönderme imkanı sunulur.
+ "Gelen Kutusu" ve "Giden Kutusu" bölümleri, kullanıcının aldığı ve gönderdiği mesajları sırasıyla gösterir.
+ Kullanıcı, mesaj başlığı, içeriği ve alıcısı gibi bilgileri girerek yeni mesajlar oluşturabilir. 
+Ayrıca, kullanıcı bilgileri (ad ve soyad) otomatik olarak çekilir ve ekranda gösterilir.
+ Uygulama, veritabanı ile etkileşimli olarak çalışır ve SQL sorguları kullanarak mesaj yönetimini gerçekleştirir.
